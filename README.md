@@ -2,7 +2,7 @@
 
 ### Goal for the project:
 
-#### The goal of the project is to understand the factors impacting the promotion of employees in an organization and to build a model that will predict the chances of promotion #### for new employees.
+#### The goal of the project is to understand the factors impacting the promotion of employees in an organization and to build a model that will predict the chances of promotion for new employees.
 
 ### About the dataset:
 
@@ -70,11 +70,11 @@
 
 #### Here I have considered precision and recall as the metrics to determine which model was good in prediction. Out of the two more importance was given to the recall because I feel here the deserving employees should get the promotion so our model should focus more on getting the correct promotion values correct. The accuracies of the models are as follows:
 
-#### 1) Logistic Regression: % of correct promoted predictions: 82, % of correct not promoted predictions: 76, accuracy: 77
-#### 2) Support Vector Machine: % of correct promoted predictions: 87, % of correct not promoted predictions: 72, accuracy: 74
-#### 3) K Nearest Neighbors: % of correct promoted predictions: 51, % of correct not promoted predictions: 88, accuracy: 85
-#### 4) Random Forest: % of correct promoted predictions: 40, % of correct not promoted predictions: 97, accuracy: 93
-#### 5) Artificial Neural Network: % of correct promoted predictions: 92, % of correct not promoted predictions: 70, accuracy: 73
+#### 1) Logistic Regression: 82% of correct promoted predictions, 76% of correct not promoted predictions, accuracy: 77
+#### 2) Support Vector Machine: 87% of correct promoted predictions, 72% of correct not promoted predictions, accuracy: 74
+#### 3) K Nearest Neighbors: 51% of correct promoted predictions, 88% of correct not promoted predictions, accuracy: 85
+#### 4) Random Forest: 40% of correct promoted predictions, 97% of correct not promoted predictions, accuracy: 93
+#### 5) Artificial Neural Network: 92% of correct promoted predictions, 70% of correct not promoted predictions, accuracy: 73
 
 ### Choice of model:
 
